@@ -5,7 +5,7 @@
 </head>
 
 <body>
-	<form method="post">
+	<form method="post" action="j_spring_security_check">
 		Name my name: <input type="text" name="name" />
 		Password sss: <input type="password" name="password" /> 
 		<input type="submit" />
