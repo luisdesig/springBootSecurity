@@ -29,7 +29,7 @@ public class bookController {
 	@ResponseStatus(HttpStatus.CREATED)
 	public String save(@RequestBody Book book) {
 		repository.save(book);
-		return "Added book with id : " + book.getId();
+		return "Added book with id : ";
 	}
 
 	@GetMapping("/get/{id}")
