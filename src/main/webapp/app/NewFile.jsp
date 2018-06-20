@@ -4,13 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>loging</title>
+<title>Insert title here</title>
 </head>
 <body>
-<form method="post" action="login">
-		Name my name: <input type="text" name="username" />
-		Password sss: <input type="password" name="password" /> 
-		<input type="submit" />
-	</form>
+
 </body>
 </html>
