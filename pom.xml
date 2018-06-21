@@ -66,6 +66,13 @@
 			<artifactId>jakarta-regexp</artifactId>
 			<version>1.4</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>jstl</artifactId>
+		</dependency>
+		
+		
 
 	</dependencies>
 
